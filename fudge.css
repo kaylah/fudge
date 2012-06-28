@@ -1,0 +1,11 @@
+h1 {
+	color: #db147e;
+	font-family: Verdana, sans-serif;
+	font-size: 134px;
+	font-weight:bold;
+	line-height: 1em;
+}
+
+.threeD{
+	text-shadow:0px 0px 0 rgb(195,-4,102),1px 1px 0 rgb(180,-19,87),2px 2px 0 rgb(166,-33,73),3px 3px 0 rgb(151,-48,58),4px 4px 0 rgb(137,-62,44),5px 5px 0 rgb(122,-77,29), 6px 6px 0 rgb(108,-91,15),7px 7px 6px rgba(0,0,0,0.6),7px 7px 1px rgba(0,0,0,0.5),0px 0px 6px rgba(0,0,0,.2);
+}
